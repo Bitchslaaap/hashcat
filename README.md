@@ -6,10 +6,6 @@
 
 **hashcat** is licensed under the MIT license. Refer to [docs/license.txt](docs/license.txt) for more information.
 
-### Installation ###
-
-Download the [latest release](https://hashcat.net/hashcat/) and unpack it in the desired location. Please remember to use `7z x` when unpacking the archive from the command line to ensure full file paths remain intact.
-
 ### Usage/Help ###
 
 Please refer to the [Hashcat Wiki](https://hashcat.net/wiki/) and the output of `--help` for usage information and general help. A list of frequently asked questions may also be found [here](https://hashcat.net/wiki/doku.php?id=frequently_asked_questions). The [Hashcat Forum](https://hashcat.net/forum/) also contains a plethora of information. If you still think you need help by a real human come to [Discord](https://discord.gg/HFS523HGBT).
@@ -51,4 +47,4 @@ If your patch fixes a bug, please be sure there is an [issue](https://github.com
 
 In order to maintain the quality and integrity of the **hashcat** source tree, all pull requests must be reviewed and signed off by at least two [board members](https://github.com/orgs/hashcat/people) before being merged. The [project lead](https://github.com/jsteube) has the ultimate authority in deciding whether to accept or reject a pull request. Do not be discouraged if your pull request is rejected!
 
-### Happy Cracking!
+### Happy Cracking
